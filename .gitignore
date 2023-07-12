@@ -1,0 +1,6 @@
+.history/
+node_modules
+.DS_Store
+./.history
+/.history
+.DS_Store/
