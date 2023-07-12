@@ -5,3 +5,5 @@ node_modules
 /.history
 .DS_Store/
 NOTES.txt
+/.DS_Store
+./.DS_Store
