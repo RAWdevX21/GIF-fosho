@@ -1,16 +1,16 @@
 {
   "bin": {
-    "giffosho": "./app.js"
+    "giffosho": "/src/main.js"
   },
   "name": "gif-fosho",
   "version": "1.0.0",
   "type": "module",
   "description": "This user-friendly module allows you to easily create, edit, and convert animated GIFs, APNGs, WebPs, and AVIFs with Node.js. Enhance your digital content with captivating animations effortlessly.",
-  "main": "app.js",
+  "main": "/src/main.js",
   "scripts": {
-    "giffosho": "node app.js",
+    "giffosho": "node /src/main.js",
     "start": "giffosho start",
-    "build": "giffosho app.js build"
+    "build": "giffosho /src/main.js build"
   },
   "repository": {
     "type": "git",
@@ -85,6 +85,8 @@
     "ffmpeg-static": "^5.1.0"
   },
   "dependencies": {
+    "@leafygreen-ui/emotion": "^4.0.4",
+    "@leafygreen-ui/side-nav": "^13.0.10",
     "chalk": "^5.3.0",
     "chalk-animation": "^2.0.3",
     "chroma-palette": "^1.2.2",
@@ -104,6 +106,9 @@
     "meow": "^12.0.1",
     "path": "^0.12.7",
     "path-type": "^5.0.0",
-    "promise": "^8.3.0"
+    "promise": "^8.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "webkit": "^0.0.0"
   }
 }

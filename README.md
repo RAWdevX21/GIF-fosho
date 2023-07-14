@@ -1,6 +1,6 @@
 # GIF-foSho
 
-This user-friendly module empowers Node.js applications with the ability to create and edit animated GIFs. By leveraging the powerful [giffosho API](https://giffosho.com/), this module allows you to seamlessly convert your videos and rich media files into stunning animated GIFs.
+This user-friendly module empowers Node.js applications with the ability to create and edit animated GIFs. By leveraging the powerful [giffosho APP](https://giffosho.com/), this module allows you to seamlessly convert your videos and rich media files into stunning animated GIFs.
 
 ## Features
 
@@ -14,3 +14,5 @@ Explore the key features:
 - **Preserve Transparency**: Maintain transparency effects in your animated creations by converting transparent videos with an alpha channel into transparent GIFs. This ensures your GIFs retain their visual integrity.
 
 Unleash your creativity and effortlessly transform your videos into captivating, high-quality GIFs using ***ezGiffy***. Let your content shine with engaging animations in just a few simple steps.
+
+![PLANing app](/assets/gif-fosho.png).

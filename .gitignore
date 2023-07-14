@@ -1,9 +1,4 @@
 .history/
-node_modules
+node_modules/
 .DS_Store
-./.history
-/.history
-.DS_Store/
 NOTES.txt
-/.DS_Store
-./.DS_Store
